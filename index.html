@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport"content="width=device-width, initial-scale=1.0"/>
+        <title>Snatch Me Softly</title>
+
+        <!--Tailwind CDN link-->
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+        <style>
+            body{
+                background-color: antiquewhite;
+                font-family: sans-serif;
+            }
+        </style>
+    </head>
+    <body class="min-h-screen flex flex-col items-center justify-center text-center p-4">
+        <h1 class="text-4xl font-bold text-pink-600 mb-6">Dear Me,</h1>
+        <div id="affirmation-box"class="bg-white shadow-lg p-6 rounded-2xl w-full max-w-md mb-4 text-lg text-lg text-lg text-gray-800">
+            Click the button to receive your daily glow 
+        </div>
+
+        <button id="get-affirmation" class="g-pink-500 hover:bg-pink-600 text-white font-semibold py-2 px-4 rounded-xl mb-6 transition">
+            Give me strength today
+        </button>
+        <!--Filter Section-->
+        <input id="filter-input" type="text"placeholder="Search affirmations..." class="border border-gray-300 p-2 rounded mb-4 w-full max-w-md"/>
+
+        <!--Add Your Own-->
+        <div class="lex flex-col gap-2 w-full max-w-md">
+            <input id="new-affirmation" type="text" placeholder="Write your own affirmations..." class="border border-pink-300 p-2 rounded"/>
+            <button id="submit-affirmation" class="bg-rose-300 hover:bg-rose-400 text-white font-semibold py-2 rounded-xl transition">
+                Add affirmation
+            </button>
+        </div>
+    <script src="script.js"></script>
+    
+    </body>
+</html>
