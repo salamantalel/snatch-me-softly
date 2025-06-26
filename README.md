@@ -1,6 +1,6 @@
- # 🌸 Snatch Me Softly – Daily Affirmation App by Sal
+ #  Snatch Me Softly – Daily Affirmation App by Sal
 
-Hi love 🤍  
+Hi love   
 This is a soft, simple, one-tab app that I made for myself — and for anyone who just needs to breathe and remember who the hell they are. It’s a daily affirmation tool. It’s cute. It’s coded with love. It’s me.
 
 Built with HTML, Tailwind CSS, and JavaScript. API handled with JSON Server.  
@@ -8,7 +8,7 @@ Styled in soft pink and cream because healing doesn’t have to be boring. ✨
 
 ---
 
-## 💬 What This App Does
+##  What This App Does
 
 - **Get an instant affirmation** that lifts you up when the world feels heavy.
 - **Search affirmations** that match a word or vibe you’re feeling (like “storm” or “worthy”).
@@ -18,7 +18,7 @@ Styled in soft pink and cream because healing doesn’t have to be boring. ✨
 
 ---
 
-## 🛠️ Tech & Tools I Used
+##  Tech & Tools I Used
 
 - `HTML` – for structure
 - `Tailwind CSS` – for styling (I chose this because I like the control)
@@ -28,7 +28,7 @@ Styled in soft pink and cream because healing doesn’t have to be boring. ✨
 
 ---
 
-## 🔄 How the Features Work (In My Words)
+##  How the Features Work (In My Words)
 
 - The "Give Me Strength" button picks a random affirmation from my API.
 - The search input filters affirmations live as you type, using `filter()` and `map()`.
@@ -38,21 +38,21 @@ Styled in soft pink and cream because healing doesn’t have to be boring. ✨
 
 ---
 
-## 🎀 My Favorite Thing About This Project
+##  My Favorite Thing About This Project
 
 I made this while learning. While tired. While in class. While still figuring out my life.  
 But I also made it for every version of me who just needed a gentle reminder that softness is not weakness. I wanted to build something I would actually *use*. Something I would actually *open*. And I did.
 
 ---
 
-## 🔗 Live Link
+##  Live Link
 
-👉 [Click here to try it out](https://salamantalel.github.io/snatch-me-softly/)  
+ [Click here to try it out](https://salamantalel.github.io/snatch-me-softly/)  
 
 
 ---
 
-## 💻 Want to Run It Locally?
+##  Want to Run It Locally?
 
 If you’re a developer (or a Sal-in-training), you can run this app like this:
 
@@ -65,19 +65,19 @@ If you’re a developer (or a Sal-in-training), you can run this app like this:
 
 ---
 
-## 🧠 Things I Practiced in This Project
+##  Things I Practiced in This Project
 
 - How to use `fetch()` to GET and POST data from a fake API
 - DOM manipulation: changing content, filtering lists, capturing user input
 - Handling errors without crashing the vibe
 - Writing code comments that *actually explain what’s happening*
 - Working with Tailwind CSS to keep the aesthetic clean and soft
-- Debugging with the console and asking “what the f**k?” until it worked
+- Debugging with the console 
 - Patience 🙃
 
 ---
 
-## 💖 Creator
+##  Creator
 
 Made by **Salama Ntalel**  
 
