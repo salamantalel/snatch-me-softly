@@ -1,14 +1,48 @@
 {
-    "affirmations":[
-        {"id":1, "text":"I am allowed to take up space emotionally, physically, spiritually."},
-        {"id":2, "text":"My softness is not weakness.It is a gift I choose who  to share with."},
-        {"id":3, "text":"I am both the storm and the sanctuary."},
-        {"id":4, "text":"My boundaries are a love language."},
-        {"id":5, "text":"I can be in love and still choose myself first."},
-        {"id":6, "text":"Even when i fall apart, I am still whole."},
-        {"id":7, "text":"It is safe to heal.It is safe to dream.It is safe to begin again."},
-        {"id":8, "text":"I am not here to shrink,I am here to grow."},
-        {"id":9, "text":"I deserve the kind of love I keep trying to give to others."}
-    ]
-
+  "affirmations": [
+    {
+      "id": 1,
+      "text": "I am allowed to take up space emotionally, physically, spiritually."
+    },
+    {
+      "id": 2,
+      "text": "My softness is not weakness.It is a gift I choose who  to share with."
+    },
+    {
+      "id": 3,
+      "text": "I am both the storm and the sanctuary."
+    },
+    {
+      "id": 4,
+      "text": "My boundaries are a love language."
+    },
+    {
+      "id": 5,
+      "text": "I can be in love and still choose myself first."
+    },
+    {
+      "id": 6,
+      "text": "Even when i fall apart, I am still whole."
+    },
+    {
+      "id": 7,
+      "text": "It is safe to heal.It is safe to dream.It is safe to begin again."
+    },
+    {
+      "id": 8,
+      "text": "I am not here to shrink,I am here to grow."
+    },
+    {
+      "id": 9,
+      "text": "I deserve the kind of love I keep trying to give to others."
+    },
+    {
+      "text": "i am lovable",
+      "id": 10
+    },
+    {
+      "text": "i am ok",
+      "id": 11
+    }
+  ]
 }

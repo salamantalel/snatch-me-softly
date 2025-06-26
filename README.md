@@ -47,8 +47,8 @@ But I also made it for every version of me who just needed a gentle reminder tha
 
 ## 🔗 Live Link
 
-👉 [Click here to try it out](https://your-github-username.github.io/snatch-me-softly/)  
-_(replace this with your real GitHub Pages link)_
+👉 [Click here to try it out](https://salamantalel.github.io/snatch-me-softly/)  
+
 
 ---
 
@@ -79,9 +79,6 @@ If you’re a developer (or a Sal-in-training), you can run this app like this:
 
 ## 💖 Creator
 
-Made by **Sal** — a girl in her healing era, learning how to code and be soft at the same time.  
-This is one of the first apps I’ve ever built. And I’m proud of it. 💗
-
-> "Even when I fall apart, I am still whole."
+Made by **Salama Ntalel**  
 
 ---
